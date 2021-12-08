@@ -1,0 +1,28 @@
+{
+    "News Section Configuration": {
+
+        "APIkey": ""
+
+    },
+
+    "Covid Data Configuration": {
+
+        "Location": "Exeter",
+        "Location Type": "ltla",
+        "Nation": "England",
+
+        "Output Format": {
+            "date": "date",
+            "areaName": "areaName",
+            "areaCode": "areaCode",
+            "newCasesByPublishDate": "newCasesByPublishDate",
+            "cumCasesByPublishDate": "cumCasesByPublishDate",
+            "newDeaths28DaysByDeathDate": "newDeaths28DaysByDeathDate",
+            "cumDeaths28DaysByDeathDate": "cumDeaths28DaysByDeathDate",
+            "hospitalCases": "hospitalCases"
+        }
+
+
+    }
+
+}

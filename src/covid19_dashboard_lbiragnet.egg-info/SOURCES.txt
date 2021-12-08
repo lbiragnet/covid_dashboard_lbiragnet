@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+src/covid_data_handler.py
+src/covid_news_handling.py
+src/main.py
+src/time_calculations.py
+src/covid19_dashboard_lbiragnet.egg-info/PKG-INFO
+src/covid19_dashboard_lbiragnet.egg-info/SOURCES.txt
+src/covid19_dashboard_lbiragnet.egg-info/dependency_links.txt
+src/covid19_dashboard_lbiragnet.egg-info/top_level.txt
