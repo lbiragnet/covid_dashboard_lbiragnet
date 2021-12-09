@@ -15,7 +15,7 @@ setup(
    py_modules=["main", "covid_data_handler", "covid_news_handling", "time_calculations"],
    packages=find_packages("src"),
    packages_dir={"":"src"},
-   package_data={"srcpkg":["config/*.json", "datafiles/*.json", "*.csv"]},
+   package_data={"src":["config/*.json", "datafiles/*.json", "*.csv"]},
    include_package_data=True,
    license="MIT",
    classifiers=[
