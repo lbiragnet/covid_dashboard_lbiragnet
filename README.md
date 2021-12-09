@@ -46,7 +46,9 @@ The application is also available as a Python package on PyPi. It can be install
 
 Once the application has been installed, it needs to be configured using your chosen location and API key. These are necessary to extract the correct data from the uk-covid19 api, and to provide access to the news api. You can register for an API key on https://newsapi.org/. This will usually look like a long sequence of different characters. Do not share your API key, as this might lead to you losing access to the news API.
 
-Navigate to the application folder named `covid19_dashboard_lbiragnet` and head over to `\src\config` and open `config.json`. This will open the application configuration file.
+If you have download the application from GitHub, navigate to the application folder named `covid19_dashboard_lbiragnet` and head over to `\src\config` and open `config.json`. This will open the application configuration file.
+
+If installed using pip, the configuration file will most likely be under a different directory.
 
 Enter your API key in quotation marks in the `API key` section.
 
@@ -55,7 +57,7 @@ The configuration file can be edited for covid data to correspond to the locatio
 
 ## Running the application
 
-Once the application has been configured with your API key and the location of your choice, open the package location via the command line. To run the application, type:
+Once the application has been configured with your API key and the location of your choice, navigate to the src folder via the command line. To run the application, type:
 
 ```$ python -m main```
 
