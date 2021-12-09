@@ -32,18 +32,11 @@ These can be installed via pip in the command line: ` $ pip install <package> `
 # Installation
 
 
-You need to have pip installed in order to install the application package. The latest version of pip can be installed at:
+You can download the application directly from GitHub, at https://github.com/lbiragnet/covid_dashboard_lbiragnet by clicking "Download ZIP" and then extracting the files to the application of your choice.
 
-https://pip.pypa.io/en/stable/installation/
+The application is also available as a Python package on PyPi. It can be installed using pip in the command line:
 
-Once pip is installed, open the command line (press the Windows key, type "cmd" and press Enter). At the command line, type:
-
-``` $ pip install covid19_dashboard_lucbiragnet 0.0.1 ```
-
-If you are having issues installing the application package, be sure to check out pip documnentation at:
-
-https://pip.pypa.io/en/stable/cli/pip_install/
-
+``` $ pip install covid19_dashboard_lucbiragnet ```
 
 
 # Getting Started
